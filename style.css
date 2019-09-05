@@ -1,0 +1,10 @@
+body {
+    background-image: url("background-metal-hole.png");
+    text-align: center;
+}
+#mycontainer{
+    background-color: hsla(0, 100%, 100%, 0.4);
+}
+.jumbotron{
+    background-color: hsla(0, 100%, 100%, 0.4);
+}
